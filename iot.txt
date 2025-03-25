@@ -1,0 +1,60 @@
+https://www.tinkercad.com/things/518Y9qcNL3Y-piezobuzzer/editel?returnTo=%2Fdashboard%2Fdesigns%2Fcircuits&sharecode=_V63G3-oSGvyRDDcxSglXnS0rMfPUMyPeKNQnqYJdOM
+
+piezoBuzzer
+
+https://www.tinkercad.com/things/eVhjCtaGzgy-ssd-blink/editel?returnTo=%2Fdashboard%2Fdesigns%2Fcircuits&sharecode=cGLgu-Cy8vCUSLv6CtxTnigCmKGrlgnKXnrDHwzgaUE
+
+SSDBlink
+
+https://www.tinkercad.com/things/ddygHPEKbgK-led-with-push-button/editel?returnTo=%2Fdashboard%2Fdesigns%2Fcircuits&sharecode=Q6xQrFxI1rHRpmKiPiwBdwpbXStCBSzz0fW0oKadsqY
+
+Led with push button
+
+https://www.tinkercad.com/things/2Cl4BMzsTIm-gassensor/editel?returnTo=%2Fdashboard%2Fdesigns%2Fcircuits&sharecode=VklbYjyPlaRku00BMsEYMvwDltZwyX_TbNoZct8iC8Q
+
+gas sensor
+
+https://www.tinkercad.com/things/5rPDcUCgvY5-pir-sensor/editel?returnTo=%2Fdashboard%2Fdesigns%2Fcircuits&sharecode=BsGQs9D94t4-NJ0J0wKpL8cYkVIqD-YQ-7AHHg4EMII
+
+pir sensor
+
+https://www.tinkercad.com/things/bqui1DjGbLe-displaytemponled/editel?returnTo=%2Fdashboard%2Fdesigns%2Fcircuits&sharecode=wkKxN_tJDm7RiVUqG_cn8I1oWf0k63uWUvKJxr8quh0
+
+display temperature on led
+
+https://www.tinkercad.com/things/cf5VWoJhmUq-print-count/editel?returnTo=%2Fdashboard%2Fdesigns%2Fcircuits&sharecode=KKt4zI7oHuxwWBmGVWHIJWvvEdPtzLYb6FCfsnT4yOA
+
+lcd print count
+
+https://www.tinkercad.com/things/5cvpHfvrF6T-exquisite-krunk/editel?returnTo=%2Fdashboard%2Fdesigns%2Fcircuits&sharecode=Ts8MWOkfeKZwTI3iaweOVhKZDtVFj53gFBiQcg1ES0Q
+
+temperature display on serial monitor
+
+https://www.tinkercad.com/things/6GmMvQleN6a-photoresister/editel?returnTo=%2Fdashboard%2Fdesigns%2Fcircuits&sharecode=L_yhVpufU1q8fqlelmZgTybtkt1R90vlSNVqqGbFdh4
+
+photo resistor
+
+https://www.tinkercad.com/things/eaCBtiCBFHU-potentiometer-led/editel?returnTo=%2Fdashboard%2Fdesigns%2Fcircuits&sharecode=B_0jwYOuzK5gEmU0_qjOlm5zU0aASmwXwITZy6gCq4U
+
+potentiometer led
+
+https://www.tinkercad.com/things/lS6cIctsNKv-ultrasonicsensor/editel?returnTo=%2Fdashboard%2Fdesigns%2Fcircuits&sharecode=rpJB9itws6EummeC-1FxZezk3KpQzFMOVcoeY3nA6_k
+
+ultra sonic sensor
+
+https://www.tinkercad.com/things/3uMiwPZFk8J-fadingeffect/editel?returnTo=%2Fdashboard%2Fdesigns%2Fcircuits&sharecode=YI5hVC4Acr7hHlYQTj-2U28SlImch0DDoIIBmrrFc1E
+
+fading effect
+
+https://www.tinkercad.com/things/j73qJAiwHFE-led-/editel?returnTo=%2Fdashboard%2Fdesigns%2Fcircuits&sharecode=XojWAYliYA_twhJo-ecfthHipuuxtOqzvReMgyjJFpY
+
+led
+
+
+
+
+
+
+
+
+
